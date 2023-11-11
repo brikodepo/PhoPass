@@ -13,7 +13,7 @@ import os
 import random
 import colorama
 from colorama import just_fix_windows_console
-from colorama import Fore, Back, Style
+from colorama import Fore, Style
 import time
 
 
@@ -30,7 +30,6 @@ def generer_mot_de_passe(longueur):
     voyelles = "a310u"
     consonnes = "bcdf8hjklmnpqr$tvwxyz"
 
-    # Assure-toi que la longueur du mot de passe est paire pour obtenir une alternance de voyelles et de consonnes
     if longueur % 2 != 0:
         longueur += 1
 
