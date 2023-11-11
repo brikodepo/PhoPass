@@ -7,10 +7,17 @@
 pour les caractères spéciaux voici a quoi ils correspondent :
 
 3 = e 
+
 1 = i
+
 0 = o
+
 8 = g
+
 $ = s
+
+
+
 
 Merci pour de votre lecture 
 
